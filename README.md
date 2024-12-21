@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Fitverse
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fitverse is a web application designed to help users explore and learn about various exercises based on body parts, equipment, and more. Built with **React**, **CSS**, and **Material UI**, it leverages the **ExerciseDB API** from RapidAPI to provide detailed exercise information, including reference videos and suggestions for similar exercises.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Search Functionality**: Find exercises by name or targeted body part.
+- **Scrollable Body Parts Bar**: Browse exercises categorized by body parts.
+- **Detailed Exercise Information**: View descriptions, instructions, and reference videos for selected exercises.
+- **Suggestions**: Discover similar exercises and equipment-based alternatives.
 
-### `npm start`
+## Deployment
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The project is deployed on **Netlify** for seamless access:
+[Visit Fitverse](#) *(Replace with your Netlify link)*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **Frontend**: React, CSS, Material UI
+- **API**: ExerciseDB from RapidAPI
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+Follow these steps to run the project locally:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Fitverse.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Fitverse
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Add your API key from RapidAPI for the ExerciseDB API.
+5. Start the development server:
+   ```bash
+   npm start
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*(Add screenshots or GIFs here)*
 
-### `npm run eject`
+![Homepage](#) *(Replace with the actual image URL)*
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## API Integration
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Fitverse uses the ExerciseDB API to fetch exercise data. To use this API:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Create an account on [RapidAPI](https://rapidapi.com/).
+2. Subscribe to the ExerciseDB API.
+3. Replace the placeholder API key in the code with your actual API key.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contributions
 
-## Learn More
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the [MIT License](LICENSE).
