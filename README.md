@@ -12,7 +12,7 @@ Fitverse is a web application designed to help users explore and learn about var
 ## 🌐 Deployment
 
 The project is deployed on **Netlify** for seamless access:
-[Visit Fitverse](#) *(Replace with your Netlify link)*
+[FitVerse](fit-verse.netlify.app) 
 
 ## 🛠️ Technologies Used
 
@@ -43,9 +43,10 @@ Follow these steps to run the project locally:
 
 ## 🖼️ Screenshots
 
-*(Add screenshots or GIFs here)*
-
-![Homepage](#) *(Replace with the actual image URL)*
+![Screenshot 2024-12-22 165323](https://github.com/user-attachments/assets/ed5e4a7c-e00f-4d78-80c4-5f49fcc44a9d)
+![Screenshot 2024-12-22 165344](https://github.com/user-attachments/assets/d928e066-29d4-495b-b658-2f3df71bc28a)
+![Screenshot 2024-12-22 165407](https://github.com/user-attachments/assets/193372e7-f1d8-4eec-8f94-f3600c3b3ff3)
+![Screenshot 2024-12-22 165738](https://github.com/user-attachments/assets/068440ac-f54c-4e4d-a69c-a46aa7ed422c)
 
 ## 🔗 API Integration
 
