@@ -12,7 +12,7 @@ Fitverse is a web application designed to help users explore and learn about var
 ## 🌐 Deployment
 
 The project is deployed on **Netlify** for seamless access:
-[FitVerse]((https://fit-verse.netlify.app/)) 
+[FitVerse](https://fit-verse.netlify.app/)
 
 ## 🛠️ Technologies Used
 
